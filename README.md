@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B3D,100:C2410C&height=170&section=header&text=Piyush%20Sinha&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=I%20build%20apps%20that%20use%20your%20phone%20for%20you&descAlignY=58&descSize=17" width="100%" alt="Piyush Sinha" />
 
-Mobile and AI developer in Noida · Android, iOS and the agents in between
+Mobile and AI developer in India · Android, iOS and the agents in between
 
 <a href="https://heymode.app"><img src="https://img.shields.io/badge/heymode.app-FF6B3D?style=for-the-badge&logo=safari&logoColor=white" alt="heymode.app" /></a>
 <a href="https://github.com/Piyusinha/mode"><img src="https://img.shields.io/github/stars/Piyusinha/mode?style=for-the-badge&logo=github&label=Mode&color=1A1A1F" alt="Mode on GitHub" /></a>
