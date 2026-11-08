@@ -31,10 +31,9 @@ iPhone now, Android next. [Watch the film](https://github.com/Piyusinha/mode#see
 
 | Project | What it does |
 |---|---|
-| **[slacker](https://github.com/Piyusinha/slacker)** | Mention a bot in Slack, get a pull request. A self-hosted coding agent (Codex or Claude) in a locked-down sandbox. |
-| **[DuoBar](https://github.com/Piyusinha/DuoBar)** | Battery, network and volume in one menu bar indicator on macOS. |
+| **[kapability](https://github.com/kotforge-dev/kapability)** | A Kotlin Multiplatform SDK: declare an app capability once, and expose it to Android AppFunctions and iOS App Intents. |
 | **[ai-tab-organizer](https://github.com/Piyusinha/ai-tab-organizer)** | A Chrome extension that sorts your open tabs into named groups with one click. |
-| **[WhatsappBasedLogin](https://github.com/Piyusinha/WhatsappBasedLogin)** | Verify a phone number through WhatsApp instead of SMS. |
+| **[DynamicIsland](https://github.com/Piyusinha/DynamicIsland)** | An iPhone-style Dynamic Island for Android: music, notifications and Bluetooth devices in a pill at the top of the screen. |
 
 ## What I work with
 
