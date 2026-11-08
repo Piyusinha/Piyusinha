@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=Piyusinha&hide=["contribs","prs"])
+![Piyush's GitHub streak](https://streak-stats.demolab.com?user=Piyusinha&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=Piyusinha&color=green)
 
